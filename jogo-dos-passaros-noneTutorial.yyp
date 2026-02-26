@@ -36,6 +36,9 @@
   "name":"jogo-dos-passaros-noneTutorial",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_arara","path":"sprites/spr_arara/spr_arara.yy",},},
+    {"id":{"name":"spr_carcara","path":"sprites/spr_carcara/spr_carcara.yy",},},
+    {"id":{"name":"spr_coruja","path":"sprites/spr_coruja/spr_coruja.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
