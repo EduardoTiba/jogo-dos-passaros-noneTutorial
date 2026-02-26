@@ -1,0 +1,2 @@
+dia 1:
+-Fazer o player cair e voar para cima;
