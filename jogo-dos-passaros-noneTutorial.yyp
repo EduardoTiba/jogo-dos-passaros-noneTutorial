@@ -44,6 +44,8 @@
     {"id":{"name":"spr_background_reflexo","path":"sprites/spr_background_reflexo/spr_background_reflexo.yy",},},
     {"id":{"name":"spr_background_reflexo2","path":"sprites/spr_background_reflexo2/spr_background_reflexo2.yy",},},
     {"id":{"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},},
+    {"id":{"name":"spr_botao_bloqueado","path":"sprites/spr_botao_bloqueado/spr_botao_bloqueado.yy",},},
+    {"id":{"name":"spr_botao_liberado","path":"sprites/spr_botao_liberado/spr_botao_liberado.yy",},},
     {"id":{"name":"spr_carcara","path":"sprites/spr_carcara/spr_carcara.yy",},},
     {"id":{"name":"spr_coruja","path":"sprites/spr_coruja/spr_coruja.yy",},},
   ],
