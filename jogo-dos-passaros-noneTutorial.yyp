@@ -37,6 +37,13 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_arara","path":"sprites/spr_arara/spr_arara.yy",},},
+    {"id":{"name":"spr_background_agua","path":"sprites/spr_background_agua/spr_background_agua.yy",},},
+    {"id":{"name":"spr_background_arvores","path":"sprites/spr_background_arvores/spr_background_arvores.yy",},},
+    {"id":{"name":"spr_background_lua","path":"sprites/spr_background_lua/spr_background_lua.yy",},},
+    {"id":{"name":"spr_background_reflexo_lua","path":"sprites/spr_background_reflexo_lua/spr_background_reflexo_lua.yy",},},
+    {"id":{"name":"spr_background_reflexo","path":"sprites/spr_background_reflexo/spr_background_reflexo.yy",},},
+    {"id":{"name":"spr_background_reflexo2","path":"sprites/spr_background_reflexo2/spr_background_reflexo2.yy",},},
+    {"id":{"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},},
     {"id":{"name":"spr_carcara","path":"sprites/spr_carcara/spr_carcara.yy",},},
     {"id":{"name":"spr_coruja","path":"sprites/spr_coruja/spr_coruja.yy",},},
   ],
