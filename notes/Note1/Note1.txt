@@ -1,2 +1,13 @@
-dia 1:
--Fazer o player cair e voar para cima;
+Explicando o problema:
+
+-Problema = depois que o jogador morre e o jogo é reiniciado, o pássaro faz seu efeito de perder, a árvore não se
+move e o background é o único que se move;
+
+-Solução = a condição de "if (global.perdeu == true)" ativa o efeito de perder do pássaro e para de mover as árvores,
+então para o jogo rodar normalmente após a primeira perda, é só especificar que quando o jogo recomeçar, a player ainda não perdeu.
+Dentro do alarme 0 do obj_player, determine que o jogo deve reiniciar e que a variável "global.perdeu" é false, já que uma nova rodada
+começou;
+
+
+fazer o pássaro inimigo
+-show_message na colisão
