@@ -1,2 +1,3 @@
 //valor da "gravidade"
-vsp = 1.2;
+gravidade = 0.2;
+
