@@ -1,19 +1,12 @@
 //movendo o player para baixo:
 vspeed += gravidade;
 
-//movimento do player
-if (keyboard_check_pressed(vk_space) or mouse_check_button(mb_left))
+//SE perder, o pássaro deve ir para cima e girar *efeito de perder
+if (global.perdeu == true)
 {
-	if (image_index < 1)// se o frame da animação for menor que 1, então o passaro pode fazer o movimento
-	{
-	var _voo = -5;
-	//o player vai pra cima
-	vspeed = _voo;
-	
-	//animação do pássaro é tocada?
-	image_speed = 5;
-	//a animação começa no frame 1, porque sem isso dá um delay esquisito e o jogador pode não gostar
-	image_index = 1;
-	}
+	//indo para trás
+	hspeed = -2;
+	//girando
+	image_angle += 3;
 }
-
+	

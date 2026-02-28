@@ -43,6 +43,7 @@
     {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
+    {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},},
     {"id":{"name":"spr_arara","path":"sprites/spr_arara/spr_arara.yy",},},
     {"id":{"name":"spr_background_agua","path":"sprites/spr_background_agua/spr_background_agua.yy",},},
     {"id":{"name":"spr_background_arvores","path":"sprites/spr_background_arvores/spr_background_arvores.yy",},},
