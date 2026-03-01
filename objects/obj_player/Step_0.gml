@@ -5,7 +5,7 @@ vspeed += gravidade;
 if (global.perdeu == true)
 {
 	//indo para trás
-	hspeed = -3;
+	hspeed = -2;
 	//girando
 	image_angle += 3;
 }
