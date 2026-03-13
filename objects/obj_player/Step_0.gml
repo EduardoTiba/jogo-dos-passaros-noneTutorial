@@ -9,4 +9,10 @@ if (global.perdeu == true)
 	//girando
 	image_angle += 3;
 }
-show_debug_message(global.perdeu)
+else //eu ainda não perdi, mas eu posso perder ao colidir com o ceu ou agua
+{
+	if (y >= 352 or y <= 0)
+	{
+		perdeu();
+	}
+}
