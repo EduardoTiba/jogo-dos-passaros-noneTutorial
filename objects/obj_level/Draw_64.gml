@@ -20,7 +20,6 @@ draw_set_font(-1);
 //armazenando o valor do meio da room, numa variável
 var _MeioDaRoom = window_get_width();
 
-
 //mostrando o level
 draw_sprite_ext(spr_num_dificuldade, global.level, _MeioDaRoom/2, 35, 2, 2, 0, c_white, 1);
 /* no segundo argumento eu coloquei a global.level, porque ela trabalha com numeros e se o level
