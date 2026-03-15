@@ -4,13 +4,20 @@ if (global.perdeu == true) { exit }
 //os pontos vão aumentando
 global.pontos += 0.1;
 
+
+//ganhando level se a pontuação atual for maior ou igual a pontuação equivalente
+//a dificuldade atual
+if (global
+	if (global.pontos >= 100 * global.level)
+	{
+		//ganha level
+		global.level++;
+	}
+
+
+
 #region Sistema de level (aumentando de verdade a dificuldade do jogo)
 
-if (global.pontos >= 100)
-{
-	//ganha um level
-		
-}
 
 
 #endregion

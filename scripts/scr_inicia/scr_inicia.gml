@@ -12,7 +12,10 @@ global.pontos = 0;
 
 
 //variável para o sistema de level (dificuldade do jogo)
-global.level = 0;
+global.level = 1;
+
+//array para aumentar os pontos
+global.ponto_dificuldade = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 
 #endregion
 
