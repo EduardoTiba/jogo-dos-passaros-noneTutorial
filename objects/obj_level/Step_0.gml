@@ -4,3 +4,9 @@ if (global.perdeu == true) { exit }
 //os pontos vão aumentando
 global.pontos += 0.1;
 
+#region Sistema de level
+
+
+
+
+#endregion

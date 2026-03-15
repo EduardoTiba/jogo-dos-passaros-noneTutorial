@@ -10,6 +10,10 @@ códigos.
 //variável de pontos
 global.pontos = 0;
 
+
+//variável para o sistema de level (dificuldade do jogo)
+global.level = 0;
+
 #endregion
 
 
