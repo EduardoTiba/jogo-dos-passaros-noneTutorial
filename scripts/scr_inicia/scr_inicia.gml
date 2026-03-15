@@ -7,6 +7,9 @@ R:Muito provavelmente, a condição do player ainda estar vivo e não perder vai
 códigos.
 */
 
+//variável de pontos
+global.pontos = 0;
+
 #endregion
 
 

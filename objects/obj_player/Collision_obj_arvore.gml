@@ -1,4 +1,4 @@
-//árvore parando ao colidir com o player
+      //árvore parando ao colidir com o player
 //with(all)
 //{
 //	hspeed = 0;
