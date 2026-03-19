@@ -17,7 +17,8 @@ draw_set_font(-1);
 
 #region nível de dificuldade
 
-draw_text(20, 50, global.ponto_dificuldade[global.level - 1]);  
+//pequeno debug para checar a array
+//draw_text(20, 50, global.ponto_dificuldade[global.level - 1]);  
 
 //armazenando o valor do meio da room, numa variável
 var _MeioDaRoom = window_get_width();

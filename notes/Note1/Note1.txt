@@ -11,3 +11,7 @@ começou;
 
 fazer o pássaro inimigo
 -show_message na colisão
+
+19/03/26:
+tarefa
+-Aumentar a velocidade de todo mundo conforme o level vai aumentando;
