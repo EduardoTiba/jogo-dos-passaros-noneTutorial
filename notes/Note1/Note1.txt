@@ -15,3 +15,8 @@ fazer o pássaro inimigo
 19/03/26:
 tarefa
 -Aumentar a velocidade de todo mundo conforme o level vai aumentando;
+
+
+22/03/2026
+-resetar o level ao perder
+-destruir as árvores e pássaros que sairem da tela

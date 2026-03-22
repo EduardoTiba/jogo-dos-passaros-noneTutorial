@@ -6,3 +6,6 @@ global.perdeu = false;
 
 //os pontos são resetados
 global.pontos = 0;
+
+//level zera para 1
+global.level = 1;

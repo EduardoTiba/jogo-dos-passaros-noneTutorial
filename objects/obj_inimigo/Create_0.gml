@@ -1,5 +1,5 @@
-//Ao ser criado, ele vai ir para a direita
-hspeed = -4;
+//velocidade do inimigo
+vel = -1;
 
 //ajustando o fps da sprite
 image_speed = 4.5;

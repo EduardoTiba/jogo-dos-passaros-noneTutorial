@@ -1,2 +1,2 @@
-//indo pra esquerda
-hspeed = -2; 
+//valor de ir para a esquerda
+vel = -1;
