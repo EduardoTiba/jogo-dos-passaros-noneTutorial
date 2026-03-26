@@ -8,3 +8,9 @@ else
 	//ajustando a velocidade conforme a dificuldade do jogo
 	hspeed = vel - global.level;
 }
+
+//destruindo ao sair da tela
+if (x <= - 64)
+{
+	instance_destroy();
+}
