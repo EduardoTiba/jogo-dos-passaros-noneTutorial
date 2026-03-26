@@ -9,3 +9,9 @@ else //se o player ainda não perdeu
 {
 	hspeed = vel - global.level;
 }
+
+//Destruindo a árvore se ela sair da room
+if (x <= -64)
+{
+	instance_destroy();
+}

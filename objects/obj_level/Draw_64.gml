@@ -8,6 +8,8 @@ draw_set_font(fnt_pontos);
 var _pontoAproximado = round(global.pontos);
 
 draw_text(20, 20,"pontos: " + string(_pontoAproximado));
+//quantidade de coletáveis
+draw_text(70, 50, global.coletavel);
 
 //resetando a fonte para não afetar os outros textos
 draw_set_font(-1);

@@ -9,3 +9,4 @@ global.pontos = 0;
 
 //level zera para 1
 global.level = 1;
+
