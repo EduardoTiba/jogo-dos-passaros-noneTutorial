@@ -16,6 +16,12 @@ if (global.level < 9)
 	{
 		//ganha level
 		global.level++;
+		
+		//mudando a velocidade do background
+		layer_hspeed("bg_arvores", -global.level * 0.3);
+		
+		layer_hspeed("bg_reflexo_arvore2", -global.level * 0.3);
+		layer_hspeed("bg_reflexo_arvore", -global.level * 0.3);
 	}
 
 }

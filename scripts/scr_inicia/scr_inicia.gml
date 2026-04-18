@@ -39,7 +39,7 @@ function perdeu(){
 	//parando com o movimento da layer com as arvores
 	layer_hspeed("bg_arvores",0);
 	//parando com o movimento da layer dos reflexos da árvore
-	layer_hspeed("bg_reflexo_arvore", 0);
+	layer_hspeed("bg_reflexo_arvore2", 0);
 	layer_hspeed("bg_reflexo_arvore", 0);
 	
 	//alarme até a room reiniciar, após o player perder

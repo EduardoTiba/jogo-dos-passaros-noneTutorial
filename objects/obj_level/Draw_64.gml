@@ -1,6 +1,6 @@
 ///@description Mostrando os pontos
 
-#region pontos
+#region Contadores de pontos e coletáveis
 //definindo a fonte do texto dos pontos
 draw_set_font(fnt_pontos);
 

@@ -1,7 +1,7 @@
 ///@description Spawn de coletáveis
 
 //posições para surgir
-var _local = irandom_range(128, 320);
+var _local = irandom_range(32, 320);
 //mandando gerar um peixe/coletável
 instance_create_layer(x, _local, "Coletaveis", obj_coletavel);
 
