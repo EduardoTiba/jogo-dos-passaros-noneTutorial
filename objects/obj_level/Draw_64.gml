@@ -9,6 +9,7 @@ var _pontoAproximado = round(global.pontos);
 
 draw_text(20, 20,"pontos: " + string(_pontoAproximado));
 //quantidade de coletáveis
+draw_sprite_ext(spr_icone_peixe, 0, 40, 64, 2, 2, 0, c_white, 1);
 draw_text(70, 50, global.coletavel);
 
 //resetando a fonte para não afetar os outros textos
