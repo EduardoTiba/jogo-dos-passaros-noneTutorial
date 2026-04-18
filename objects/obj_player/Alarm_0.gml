@@ -10,3 +10,5 @@ global.pontos = 0;
 //level zera para 1
 global.level = 1;
 
+//zerando o contador de coletáveis
+global.coletavel = 0;

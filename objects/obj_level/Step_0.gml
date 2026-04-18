@@ -1,3 +1,4 @@
+///@decription Pontos e Dificuldade
 if (global.perdeu == true) { exit }
 
 //Ganhando pontos SE o player ainda não perdeu
