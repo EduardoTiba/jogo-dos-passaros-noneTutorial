@@ -28,7 +28,7 @@ global.coletavel = 0;
 //criando uma função para perder o pássaro
 function perdeu(){	
 	//o player so pode ter a animação de perder, se ele ainda não perdeu
-	//if (global.perdeu == true) { exit }
+	if (global.perdeu == true) { exit }
 	
 	//player morreu
 	global.perdeu = true;
