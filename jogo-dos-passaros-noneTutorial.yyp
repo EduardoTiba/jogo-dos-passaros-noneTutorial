@@ -53,6 +53,7 @@
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},},
+    {"id":{"name":"sq_menu","path":"sequences/sq_menu/sq_menu.yy",},},
     {"id":{"name":"spr_arara","path":"sprites/spr_arara/spr_arara.yy",},},
     {"id":{"name":"spr_background_agua","path":"sprites/spr_background_agua/spr_background_agua.yy",},},
     {"id":{"name":"spr_background_arvores","path":"sprites/spr_background_arvores/spr_background_arvores.yy",},},
