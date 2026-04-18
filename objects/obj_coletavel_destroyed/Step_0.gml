@@ -6,4 +6,3 @@ image_yscale = image_xscale;
 
 //transparência
 image_alpha = lerp(image_alpha, 0, 0.2);
-show_debug_message(image_alpha)
