@@ -42,6 +42,7 @@
   "name":"jogo-dos-passaros-noneTutorial",
   "resources":[
     {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},},
+    {"id":{"name":"fnt_titulo","path":"fonts/fnt_titulo/fnt_titulo.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
     {"id":{"name":"obj_coletavel_destroyed","path":"objects/obj_coletavel_destroyed/obj_coletavel_destroyed.yy",},},
