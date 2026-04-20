@@ -20,3 +20,9 @@ tarefa
 22/03/2026
 -resetar o level ao perder
 -destruir as árvores e pássaros que sairem da tela
+
+
+20/04/2026
+coisas para polir depois:
+-Velocidade do inimigo;
+-Deixar o título não totalmente transparente;
