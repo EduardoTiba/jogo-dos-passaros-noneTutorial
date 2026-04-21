@@ -12,3 +12,6 @@ escala_texto_y = 1.3;
 
 //Ativando a sequence que faz a transição entre as rooms
 layer_sequence_create("Transicao", 0, 0, sq_transicao);
+
+//direcionando o jogador à partida
+global.destino = destino_desse_botao;

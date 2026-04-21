@@ -20,6 +20,9 @@ global.ponto_dificuldade = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 //variáveis para contabilizar os coletáveis
 global.coletavel = 0;
 
+//variável que controla o destino entre as rooms
+global.destino = rm_jogo;
+
 #endregion
 
 
@@ -45,14 +48,16 @@ function perdeu(){
 	//alarme até a room reiniciar, após o player perder
 	alarm[0] = game_get_speed(gamespeed_fps);
 	
+	//indicando o destino 
+	global.destino = rm_menu;
+	
 	//iniciando o efeito de fade out
-	layer_sequence_create(
+	layer_sequence_create("Transicao", 0, 0, sq_transicao);
 	
 }
 
 function muda_room(){
-	//indo para a room do jogo	
-	room_goto(rm_jogo);
+	room_goto(global.destino);
 }
 
 #endregion
