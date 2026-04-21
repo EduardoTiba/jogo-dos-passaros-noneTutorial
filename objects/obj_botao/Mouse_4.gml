@@ -10,8 +10,15 @@ escala_texto_y = 1.3;
 
 #endregion
 
-//Ativando a sequence que faz a transição entre as rooms
-layer_sequence_create("Transicao", 0, 0, sq_transicao);
-
-//direcionando o jogador à partida
-global.destino = destino_desse_botao;
+//SE uma transição ainda não foi iniciada, então pode tocar o fade out da tela menu pra partida
+if (global.transicao == false)
+{
+	//Ativando a sequence que faz a transição entre as rooms
+	layer_sequence_create("Transicao", 0, 0, sq_transicao);
+	
+	//direcionando o jogador à partida
+	global.destino = destino_desse_botao;
+	
+	//avisando que a transição foi iniciada
+	global.transicao = true;
+}

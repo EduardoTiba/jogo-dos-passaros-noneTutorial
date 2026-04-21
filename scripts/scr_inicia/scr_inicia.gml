@@ -23,6 +23,9 @@ global.coletavel = 0;
 //variável que controla o destino entre as rooms
 global.destino = rm_jogo;
 
+//variável que controla se uma transição ja foi iniciada
+global.transicao = false;
+
 #endregion
 
 
@@ -56,8 +59,14 @@ function perdeu(){
 	
 }
 
+//função para a sq_transicao
 function muda_room(){
 	room_goto(global.destino);
+}
+
+//função para a sq_transicao2
+function finaliza_transicao(){
+	global.transicao = false;
 }
 
 #endregion
