@@ -8,6 +8,7 @@
   "instanceCreationOrder":[
     {"name":"inst_5ABC8A85","path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"inst_5A4AC611","path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"inst_5857BA66","path":"rooms/rm_menu/rm_menu.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -22,6 +23,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_botao","path":"objects/obj_botao/obj_botao.yy",},"propertyId":{"name":"texto","path":"objects/obj_botao/obj_botao.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"LOJA",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_botao","path":"objects/obj_botao/obj_botao.yy",},"propertyId":{"name":"fonte","path":"objects/obj_botao/obj_botao.yy",},"resource":{"name":"fnt_botoes","path":"fonts/fnt_botoes/fnt_botoes.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fnt_botoes",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.4545455,"scaleY":1.0,"x":320.0,"y":304.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5857BA66","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5857BA66","objectId":{"name":"checador_entre_rooms","path":"objects/checador_entre_rooms/checador_entre_rooms.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-16.0,"y":-32.0,},
       ],"layers":[],"name":"botoes","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Titulo","assets":[
         {"$GMRSequenceGraphic":"v1","%Name":"graphic_20735E55","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_20735E55","resourceType":"GMRSequenceGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"sequenceId":{"name":"sq_menu","path":"sequences/sq_menu/sq_menu.yy",},"x":0.0,"y":-32.0,},

@@ -45,6 +45,7 @@
     {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},},
     {"id":{"name":"fnt_titulo","path":"fonts/fnt_titulo/fnt_titulo.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"checador_entre_rooms","path":"objects/checador_entre_rooms/checador_entre_rooms.yy",},},
     {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
     {"id":{"name":"obj_botao","path":"objects/obj_botao/obj_botao.yy",},},
     {"id":{"name":"obj_coletavel_destroyed","path":"objects/obj_coletavel_destroyed/obj_coletavel_destroyed.yy",},},
@@ -54,6 +55,7 @@
     {"id":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
+    {"id":{"name":"rm_loja","path":"rooms/rm_loja/rm_loja.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"scr_inicia","path":"scripts/scr_inicia/scr_inicia.yy",},},
     {"id":{"name":"sq_menu","path":"sequences/sq_menu/sq_menu.yy",},},
@@ -83,6 +85,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
+    {"roomId":{"name":"rm_loja","path":"rooms/rm_loja/rm_loja.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

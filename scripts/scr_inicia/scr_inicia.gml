@@ -61,6 +61,7 @@ function perdeu(){
 
 //função para a sq_transicao
 function muda_room(){
+	global.transicao = true;
 	room_goto(global.destino);
 }
 
