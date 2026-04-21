@@ -46,6 +46,9 @@ function perdeu(){
 	alarm[0] = game_get_speed(gamespeed_fps);
 }
 
-
+function muda_room(){
+	//indo para a room do jogo	
+	room_goto(rm_jogo);
+}
 
 #endregion
