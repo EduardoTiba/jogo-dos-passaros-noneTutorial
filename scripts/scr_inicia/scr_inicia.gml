@@ -44,6 +44,10 @@ function perdeu(){
 	
 	//alarme até a room reiniciar, após o player perder
 	alarm[0] = game_get_speed(gamespeed_fps);
+	
+	//iniciando o efeito de fade out
+	layer_sequence_create(
+	
 }
 
 function muda_room(){
