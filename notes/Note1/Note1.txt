@@ -26,3 +26,4 @@ tarefa
 coisas para polir depois:
 -Velocidade do inimigo;
 -Deixar o título não totalmente transparente;
+-Deixar a velocidade do coletável em 1.5 talvez?
