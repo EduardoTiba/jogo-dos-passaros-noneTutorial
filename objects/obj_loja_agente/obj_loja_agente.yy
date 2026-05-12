@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_loja",
+  "%Name":"obj_loja_agente",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_loja",
+  "name":"obj_loja_agente",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
