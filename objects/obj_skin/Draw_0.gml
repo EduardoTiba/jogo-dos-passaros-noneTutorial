@@ -1,4 +1,12 @@
+#region Fundo de liberado ou bloqueado
+
+draw_sprite_ext(spr_bloqueado, 0, x, y, 3, 3.2, 0, c_white, 1)
+
+#endregion
+
 draw_self();
+
+#region Escrevendo o custo das skins
 
 //definindo a fonte 
 draw_set_font(fnt_preco);
@@ -10,3 +18,5 @@ draw_sprite(spr_icone_peixe, 0, x-15, y+95);
 
 //resetando os draw_set
 draw_set_font(-1);
+
+#endregion
