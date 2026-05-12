@@ -43,6 +43,7 @@
   "resources":[
     {"id":{"name":"fnt_botoes","path":"fonts/fnt_botoes/fnt_botoes.yy",},},
     {"id":{"name":"fnt_pontos","path":"fonts/fnt_pontos/fnt_pontos.yy",},},
+    {"id":{"name":"fnt_preco","path":"fonts/fnt_preco/fnt_preco.yy",},},
     {"id":{"name":"fnt_titulo","path":"fonts/fnt_titulo/fnt_titulo.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"checador_entre_rooms","path":"objects/checador_entre_rooms/checador_entre_rooms.yy",},},
@@ -55,6 +56,7 @@
     {"id":{"name":"obj_limite","path":"objects/obj_limite/obj_limite.yy",},},
     {"id":{"name":"obj_loja","path":"objects/obj_loja/obj_loja.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_skin","path":"objects/obj_skin/obj_skin.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_loja","path":"rooms/rm_loja/rm_loja.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},

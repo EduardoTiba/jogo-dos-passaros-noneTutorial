@@ -8,3 +8,5 @@ draw_set_font(fnt_pontos);
 //mostrando a quantia de peixes
 draw_text(70, 60, global.pontos);
 
+//resetando os draw_set
+draw_set_font(-1)
