@@ -26,6 +26,10 @@ global.destino = rm_jogo;
 //variável que controla se uma transição ja foi iniciada
 global.transicao = false;
 
+//variável global para saber qual skin está bloqueado
+//avisando se está bloqueado ou não com true ou false
+global.itens_bloqueado = [false, true, true]
+
 #endregion
 
 
