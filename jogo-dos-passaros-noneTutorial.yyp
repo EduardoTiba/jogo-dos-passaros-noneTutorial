@@ -76,6 +76,7 @@
     {"id":{"name":"spr_caixa_texto","path":"sprites/spr_caixa_texto/spr_caixa_texto.yy",},},
     {"id":{"name":"spr_carcara","path":"sprites/spr_carcara/spr_carcara.yy",},},
     {"id":{"name":"spr_coletavel","path":"sprites/spr_coletavel/spr_coletavel.yy",},},
+    {"id":{"name":"spr_colisao_skin","path":"sprites/spr_colisao_skin/spr_colisao_skin.yy",},},
     {"id":{"name":"spr_coruja","path":"sprites/spr_coruja/spr_coruja.yy",},},
     {"id":{"name":"spr_icone_peixe","path":"sprites/spr_icone_peixe/spr_icone_peixe.yy",},},
     {"id":{"name":"spr_limite","path":"sprites/spr_limite/spr_limite.yy",},},

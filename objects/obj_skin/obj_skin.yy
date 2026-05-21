@@ -5,6 +5,8 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_skin",
@@ -31,7 +33,7 @@
     {"$GMObjectProperty":"v2","%Name":"custo","filters":[],"listItems":[],"multiselect":false,"name":"custo","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v2","%Name":"skin","filters":[],"listItems":[],"multiselect":false,"name":"skin","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_arara","path":"sprites/spr_arara/spr_arara.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_arara","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"bloqueado","filters":[],"listItems":[],"multiselect":false,"name":"bloqueado","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
-    {"$GMObjectProperty":"v2","%Name":"FPS","filters":[],"listItems":[],"multiselect":false,"name":"FPS","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"4","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"FPS","filters":[],"listItems":[],"multiselect":false,"name":"FPS","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"7","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
@@ -40,6 +42,9 @@
     "name":"spr_arara",
     "path":"sprites/spr_arara/spr_arara.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_colisao_skin",
+    "path":"sprites/spr_colisao_skin/spr_colisao_skin.yy",
+  },
   "visible":true,
 }
