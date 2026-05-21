@@ -18,7 +18,7 @@ global.level = 1;
 global.ponto_dificuldade = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 
 //variáveis para contabilizar os coletáveis
-global.coletavel = 0;
+global.coletavel = 40;
 
 //variável que controla o destino entre as rooms
 global.destino = rm_jogo;
