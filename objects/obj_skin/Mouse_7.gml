@@ -11,7 +11,7 @@ if (bloqueado == true)
 		//tirando a quatia de coletáveis gastos na skin
 		global.coletavel -= custo;
 		//minha sprite se torna a skin logo após a compra
-		
+		global.sprite_player = skin;
 	}
 	else //Se não tiver a quantia necessária, então nada acontece
 	{
