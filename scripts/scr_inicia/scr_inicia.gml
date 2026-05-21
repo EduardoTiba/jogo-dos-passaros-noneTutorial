@@ -18,7 +18,7 @@ global.level = 1;
 global.ponto_dificuldade = [100, 250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 
 //variáveis para contabilizar os coletáveis
-global.coletavel = 40;
+global.coletavel = 80;
 
 //variável que controla o destino entre as rooms
 global.destino = rm_jogo;
@@ -29,6 +29,9 @@ global.transicao = false;
 //variável global para saber qual skin está bloqueado
 //avisando se está bloqueado ou não com true ou false
 global.itens_bloqueado = [false, true, true]
+
+//checando qual a sprite do player
+global.sprite_player = spr_arara;
 
 #endregion
 

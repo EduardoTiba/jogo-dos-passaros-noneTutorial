@@ -34,7 +34,7 @@
     {"$GMObjectProperty":"v2","%Name":"custo","filters":[],"listItems":[],"multiselect":false,"name":"custo","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v2","%Name":"skin","filters":[],"listItems":[],"multiselect":false,"name":"skin","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_arara","path":"sprites/spr_arara/spr_arara.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_arara","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"bloqueado","filters":[],"listItems":[],"multiselect":false,"name":"bloqueado","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
-    {"$GMObjectProperty":"v2","%Name":"FPS","filters":[],"listItems":[],"multiselect":false,"name":"FPS","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"7","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"FPS","filters":[],"listItems":[],"multiselect":false,"name":"FPS","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":1,},
     {"$GMObjectProperty":"v2","%Name":"indice_bloqueado_ou_nao","filters":[],"listItems":[],"multiselect":false,"name":"indice_bloqueado_ou_nao","rangeEnabled":false,"rangeMax":2.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
   ],
   "resourceType":"GMObject",
