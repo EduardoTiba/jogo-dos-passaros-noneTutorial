@@ -17,6 +17,9 @@ if (global.level < 9)
 		//ganha level
 		global.level++;
 		
+		//tocando som de level up
+		audio_play_sound(snd_levelup, 0, 0);
+		
 		//mudando a velocidade do background
 		layer_hspeed("bg_arvores", -global.level * 0.3);
 		
