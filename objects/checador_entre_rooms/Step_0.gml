@@ -1,1 +1,1 @@
-show_debug_message(global.destino);
+show_debug_message(global.transicao);
