@@ -1,5 +1,5 @@
 //velocidade do inimigo
-vel = -1;
+vel = -3;
 
 //ajustando o fps da sprite
 image_speed = 4.5;
