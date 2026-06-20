@@ -64,6 +64,7 @@
     {"id":{"name":"sq_menu","path":"sequences/sq_menu/sq_menu.yy",},},
     {"id":{"name":"sq_transicao","path":"sequences/sq_transicao/sq_transicao.yy",},},
     {"id":{"name":"sq_transicao2","path":"sequences/sq_transicao2/sq_transicao2.yy",},},
+    {"id":{"name":"snd_musica_fundo","path":"sounds/snd_musica_fundo/snd_musica_fundo.yy",},},
     {"id":{"name":"spr_arara","path":"sprites/spr_arara/spr_arara.yy",},},
     {"id":{"name":"spr_background_agua","path":"sprites/spr_background_agua/spr_background_agua.yy",},},
     {"id":{"name":"spr_background_arvores","path":"sprites/spr_background_arvores/spr_background_arvores.yy",},},
