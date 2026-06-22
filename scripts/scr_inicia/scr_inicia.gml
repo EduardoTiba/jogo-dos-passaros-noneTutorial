@@ -83,4 +83,11 @@ function finaliza_transicao(){
 	global.transicao = false;
 }
 
+//função que checa se tem efeito ou não
+function Ativo_efeito(){
+	layer_enable_fx("Efeito_folha", global.tem_efeito);	
+	layer_enable_fx("Inimigos", global.tem_efeito);
+}
+
+
 #endregion

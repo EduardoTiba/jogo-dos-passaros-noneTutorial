@@ -10,10 +10,9 @@ escala_texto_y = 1.3;
 
 #endregion
 
-#region Ativando ou desativando os efeitos
+#region Ativando ou desativando os efeitos da partida
 
 global.tem_efeito = !global.tem_efeito;
-layer_enable_fx("Efeito_folhas", global.tem_efeito);
-layer_enable_fx("inimigos", global.tem_efeito);
 
+Ativo_efeito();
 #endregion

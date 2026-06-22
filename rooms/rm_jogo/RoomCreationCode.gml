@@ -8,3 +8,6 @@ if (global.transicao == true)
 audio_stop_all()
 //tocando a música ao iniciar a room do jogo
 audio_play_sound(snd_musica_fundo, 0, 1);
+
+//checa se pode ou não ter efeitos
+Ativo_efeito();

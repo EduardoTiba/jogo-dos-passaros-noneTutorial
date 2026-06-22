@@ -16,10 +16,12 @@ escala_texto_y = lerp(escala_texto_y, 1, 0.1);
 if (global.tem_efeito == true)
 { 
 	image_index = 1;
+	image_alpha = 1;
 }
 else //se não estiver com efeitos, então fica vermelho
 {
 	image_index = 0;
+	image_alpha = 0.5;
 	
 }
 
