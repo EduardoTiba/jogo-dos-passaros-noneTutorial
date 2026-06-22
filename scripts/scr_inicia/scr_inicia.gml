@@ -1,3 +1,6 @@
+//iniciando o debug para ver o frame rate do jogo
+show_debug_overlay(true);
+
 #region iniciando variáveis globais
 
 //variável para saber se o player perdeu
@@ -32,6 +35,9 @@ global.itens_bloqueado = [false, true, true]
 
 //checando qual a sprite do player
 global.sprite_player = spr_arara;
+
+//variável que checa se tem ou não os efeitos das layers
+global.tem_efeito = true;
 
 #endregion
 
